@@ -1,0 +1,17 @@
+const logger = require('logplease').create('Ejercicio-2);
+
+{
+  "name": "ej2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },  
+  "devDependencies": {
+    "logplease": "^1.4.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
